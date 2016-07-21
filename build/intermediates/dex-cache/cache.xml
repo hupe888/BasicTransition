@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_d214e15e1cfec4c927726d09d53d4711e6c1c717/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_4fa6d63de454fab9e42c6e423d62cfd8bbfde063/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ada295e240059d58e93f2769dc13e6cad2cda43b">
+        <dex dex="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6f670df332b2eef0662287a7b099f2858846b2ce/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.3.0_d73e14ab94050fb65aa4e3fddf9b748c296cb100/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_ebafe9e2ccdb75a7c0307320510a0fb1a73b404c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_6b70b6a94b5cecd339de5ae603ac5d5ca55b9e09/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bc2ee4342c329d7dde6151b2cf8d2e54d0e07696">
+        <dex dex="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_585c5991583a6603527a18e78cdcc08f6fb606cf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/tanghsiu-pei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/tanghsiu-pei/AndroidStudioProjects/BasicTransition/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_87b85fd0260d2c3094b2c83d23744126263bd18c/classes.dex" />
+    </item>
+
+</items>
